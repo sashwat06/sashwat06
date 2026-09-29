@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sashwat&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Remote%20Support%20Engineer%20%7C%20CCNA%20%7C%20Aspiring%20Sysadmin%20and%20Cloud%20Engineer&descSize=18&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sashwat%20Shukla&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Remote%20Support%20Engineer%20%7C%20CCNA%20%7C%20Aspiring%20Sysadmin%20and%20Cloud%20Engineer&descSize=18&descAlignY=60" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=760&lines=L1%2FL2+IT+Support+for+Banking+and+Financial+Clients;CCNA+Certified+%7C+MCA+Graduate;Building+Windows+Server+%2B+Active+Directory+Labs;Moving+into+Sysadmin+and+Cloud+Infrastructure" alt="Typing animation" />
