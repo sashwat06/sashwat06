@@ -58,9 +58,9 @@ Before this, I worked at **Kaizen IT Services** on the **CBDT Taxnet 2.0** proje
 
 | Project | Description |
 |---|---|
-| [Sashwat-Portfolio](https://github.com/sashwat06/Sashwat-Portfolio) | Personal portfolio website |
-| [AIportfolio](https://github.com/sashwat06/AIportfolio) | AI-themed portfolio project |
-| [gdp-dashboard](https://github.com/sashwat06/gdp-dashboard) | Data dashboard for GDP visualization |
+|  | Personal portfolio website |
+|  | AI-themed portfolio project |
+|  | Data dashboard for GDP visualization |
 | AD Home Lab *(coming soon)* | Documented Windows Server AD lab with scripts and diagrams |
 
 ---
