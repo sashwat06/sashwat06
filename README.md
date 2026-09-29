@@ -29,6 +29,7 @@ Before this, I worked at **Kaizen IT Services** on the **CBDT Taxnet 2.0** proje
 🎓 **MCA** &nbsp;|&nbsp; 🌐 **CCNA Certified** &nbsp;|&nbsp; 📍 Lucknow, India
 
 🎯 **Now building toward:** System Administrator and Cloud Infrastructure roles, through a **Windows Server 2025 Active Directory lab** and cloud fundamentals.
+
 ---
 
 ## 🛠️ Tech Stack
