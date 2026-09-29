@@ -15,14 +15,20 @@
 
 ## 👋 About Me
 
-I'm a **Remote Support Engineer at Sysnet Global Technologies**, handling **L1/L2 support for banking and financial services clients**, where uptime, security, and fast resolution matter.
+I'm an **IT Infrastructure Support Engineer** with hands-on experience keeping **banking and financial environments** running securely and without downtime.
 
-Earlier, I worked at **Kaizen IT Services** on the **CBDT Taxnet 2.0** project for the Income Tax Department of India.
+At **Sysnet Global Technologies**, I support **IDBI Bank**, resolving **25-35 tickets daily** raised through the bank's **ITSM portal**. My work covers:
 
-🎓 MCA &nbsp;|&nbsp; 🌐 CCNA Certified &nbsp;|&nbsp; 📍 Lucknow, India
+- 🔐 **Active Directory and domain services**: account management, access, and domain issues
+- 🖥️ **Windows OS troubleshooting**: performance, profile, and system errors
+- 🖨️ **Printer and peripheral support**
+- 🌐 **Networking**: connectivity, DNS, and IP issues, backed by my **CCNA**
 
-🎯 **Goal:** Grow into a **System Administrator / Cloud Infrastructure Engineer**.
+Before this, I worked at **Kaizen IT Services** on the **CBDT Taxnet 2.0** project for the **Income Tax Department of India**, a large-scale government platform.
 
+🎓 **MCA** &nbsp;|&nbsp; 🌐 **CCNA Certified** &nbsp;|&nbsp; 📍 Lucknow, India
+
+🎯 **Now building toward:** System Administrator and Cloud Infrastructure roles, through a **Windows Server 2025 Active Directory lab** and cloud fundamentals.
 ---
 
 ## 🛠️ Tech Stack
