@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/sashwat06/sashwat06/main/assets/ai-banner.png"
+    src="https://raw.githubusercontent.com/sashwat06/sashwat06/main/ai-banner.png"
     width="100%"
     alt="Sashwat Shukla AI Infrastructure Banner"
   />
