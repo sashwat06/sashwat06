@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="./assets/ai-banner.png"
-       width="100%"
-       alt="Sashwat Shukla AI Infrastructure Banner">
-</p> 
- <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sashwat06/sashwat06/main/assets/ai-banner.png"
+    width="100%"
+    alt="Sashwat Shukla AI Infrastructure Banner"
+  />
+  
+</p> <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111C44,100:00E5FF&height=240&section=header&text=SASHWAT%20SHUKLA&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20INFRASTRUCTURE%20%7C%20CLOUD%20%7C%20AUTOMATION&descAlignY=60&descSize=16" width="100%" alt="Futuristic Sashwat Shukla banner"/>
 </p>
 
